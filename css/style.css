@@ -1,0 +1,100 @@
+* {
+    color: rgb(255, 179, 0);
+}
+
+
+h2 {
+    color: coral;
+}
+
+.fpro {
+    color: orangered;
+
+}
+
+.fpro.fpro2{
+    font-size: 50px;
+}
+
+#fpro {
+    font-size: 75px;
+}
+
+#rose {
+    width: 750px;
+    height: auto;
+}
+
+#emerald {
+    width: 750px;
+    height: auto;
+}
+
+* {
+    background-color: cornflowerblue
+
+}
+
+#contactlist {
+    width: 500px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+li {
+    padding: 5px;
+    border: 10px;
+    margin: 10px;
+    width: 1000px;
+    list-style-type: none;
+}
+
+.link {
+    border-radius: 25px;
+    padding: 5px;
+    margin: 15px, 5px;
+    width: inherit;
+    font: 25pt;
+
+}
+
+#email {
+    background-color: darkmagenta;
+}
+
+#portfolio {
+    background-color: darkolivegreen;
+}
+
+#insta {
+    background-color: indigo;
+}
+
+body {
+    margin: 25px;
+    padding: 15px;
+    margin-left: 45px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+ }
+
+.content-wrap {
+    margin: 0 px;
+    border: 5 px;
+    padding: 5 px;
+    
+}
+
+.tagline {
+    font-style: italic; 
+    text-shadow: 2px 4px green;
+}
